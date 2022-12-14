@@ -1,0 +1,40 @@
+div.satu{
+  width: 700px;
+  height: 300px;
+  margin: 0 auto;
+  overflow: scroll;
+  float: left;
+  margin-left: 10px;
+  margin-top: 10px;
+  background-color: white;
+  background-image: url("avocado.jpg");
+  background-repeat: repeat-y;
+}
+
+body{
+  background-image: url("garuda-wisnu-kencana.jpg");
+  background-size: cover;
+}
+p.lima{
+  font-size: 1em;
+  text-align: right;
+  font-family: "times new roman";
+  color: blue;
+  font-weight: bold;
+}
+
+p.dua{
+  font-size: 1em;
+  text-align: left;
+  font-family: "times new roman";
+  color: green;
+  font-weight: bold;
+}
+
+p.tiga{
+  font-size: 1em;
+  text-align: right;
+  font-family: "times new roman";
+  color: red;
+  font-weight: bold;
+}
